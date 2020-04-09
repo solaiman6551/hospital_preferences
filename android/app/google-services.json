@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958342070122",
+    "firebase_url": "https://hospitalpreferencesdata.firebaseio.com",
+    "project_id": "hospitalpreferencesdata",
+    "storage_bucket": "hospitalpreferencesdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958342070122:android:c6596f783da88ecc97ef13",
+        "android_client_info": {
+          "package_name": "com.solaiman.hospital_preferences_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958342070122-65pn4se233s3v814gec0q6k8fsti6fqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsuNaV7N6Eqor1bPATuz8CDok-RageAOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958342070122-65pn4se233s3v814gec0q6k8fsti6fqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
